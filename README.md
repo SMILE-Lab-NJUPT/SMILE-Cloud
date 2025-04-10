@@ -19,7 +19,7 @@ SMILE-Cloud是一个基于 RESTful API 设计的后端服务，项目隶属于SM
 
 ## 快速上手
 
-1. 克隆仓库： ```bash git clone [https://github.com/SMILE-Lab-NJUPT/SMILE-Cloud.git](https://github.com/SMILE-Lab-NJUPT/SMILE-Cloud.git) cd SMILE-Cloud ```
+1. 克隆仓库： ```bash git clone https://github.com/SMILE-Lab-NJUPT/SMILE-Cloud.git cd SMILE-Cloud ```
     
 2. 安装依赖： ```bash pip install -r requirements.txt ```
     
