@@ -43,5 +43,5 @@ SMILE-Cloud是一个基于 RESTful API 设计的后端服务，项目隶属于SM
 
 ## 部署说明
 
-详见 docs/deployment.md EOF
+详见 docs/deployment.md
 
